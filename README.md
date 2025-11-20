@@ -1,2 +1,5 @@
 # Altechub
-A repository for resources, guides, and content related to AI, cybersecurity, and technology.
+AlTechub is a technology website offering guides and insights on AI, cybersecurity, cloud computing, and digital trends.
+
+Visit our website: https://altechub.com/
+
